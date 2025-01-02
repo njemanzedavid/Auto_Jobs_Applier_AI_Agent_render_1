@@ -1,9 +1,9 @@
 remote: true
 hybrid: true
-onsite: true
+onsite: false
 
 experience_level:
-  internship: false
+  internship: true
   entry: true
   associate: true
   mid_senior_level: true
@@ -12,11 +12,11 @@ experience_level:
 
 job_types:
   full_time: true
-  contract: false
-  part_time: false
+  contract: true
+  part_time: true
   temporary: true
-  internship: false
-  other: false
+  internship: true
+  other: true
   volunteer: true
 
 date:
@@ -26,10 +26,31 @@ date:
   24_hours: true
 
 positions:
-  - Software engineer
+  - Product Manager
+  - web3 analyst
+  - data analyst
+  - associate product Manager
+  - project Manager
+  - indie hacker
+  - IT Support
+  - Customer Support
+  - Product Owner
+  - AI/ML Engineer
+  - research assistant
+  - Information Systems analyst
+  - AI trainer
+  - Data Labeller
 
 locations:
+  - Europe
+  - USA
+  - MENA
+  - EMEA
+  - APAC
+  - Asia
+  - Canada
   - Germany
+  - Uk
 
 apply_once_at_company: true
 
@@ -44,4 +65,4 @@ title_blacklist:
   - word2
 
 location_blacklist:
-  - Brazil
+  - Nigeria
